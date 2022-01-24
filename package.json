@@ -1,0 +1,19 @@
+{
+  "name": "does-it-dance-blog-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.gatech.edu/mlawver3/does-it-dance-blog-demo.git"
+  },
+  "author": "Jehun Kim & May Lawver",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "mime-types": "^2.1.34"
+  }
+}
